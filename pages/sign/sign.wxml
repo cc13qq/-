@@ -1,0 +1,4 @@
+<view class='imagsize'>
+  <image lazy-load="true" class="image" src="../../image/1001.jpg" mode="widthFix">
+  </image>
+</view>
